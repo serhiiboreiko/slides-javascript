@@ -130,3 +130,13 @@ This is my slides and speech for NodeSchool report in Chernivtsi about JavaScrip
 > Майже.
 
 ---
+
+### Slide 19
+
+> Про підводні камені, на які ви можете натрапити вам розкаже Террі.
+
+---
+
+### Slide 20 
+
+> Всім дякую за увагу. Якщо когось цікавлять слайди або оглядовий текст моєї доповіді. Ось QR-code на мій репозиторій на моєму github.
